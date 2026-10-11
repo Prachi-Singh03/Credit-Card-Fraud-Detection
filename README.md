@@ -177,12 +177,6 @@ images/model_comparison.png
 
 ---
 
-## 👩‍💻 Author
-
-**Pooja Ratna Sai Sri Teku**
-
-- GitHub: https://github.com/Pooja3706
-- LinkedIn: https://linkedin.com/in/pooja-teku
 
 ---
 
